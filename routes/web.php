@@ -16,7 +16,7 @@ Route::get('/', function () {
 });
 Route::prefix('/')->group(function () {
     Route::get('/','Frontend\\PagesController@index')->name('index');
-    // Route::get('/gioi-thieu','Frontend\\PagesController@getAbout')->name('about');
-    // Route::get('/lien-he','Frontend\\PagesController@getContact')->name('contact');
+    Route::get('/gioi-thieu','Frontend\\PagesController@getAbout')->name('about');
+    Route::get('/lien-he','Frontend\\PagesController@getContact')->name('contact');
            
 });

@@ -17,14 +17,14 @@ class PagesController extends Controller
         return view('frontend.pages.index');
     }
 
-    /**
+   /**
      * Show the form for creating a new resource.
      *
      * @return \Illuminate\Http\Response
      */
-    public function create()
+    public function getAbout()
     {
-        //
+        return view('frontend.pages.about');
     }
 
     /**
@@ -33,11 +33,10 @@ class PagesController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
+    public function getContact(Request $request)
     {
-        //
+        return view('frontend.pages.contact');
     }
-
     /**
      * Display the specified resource.
      *

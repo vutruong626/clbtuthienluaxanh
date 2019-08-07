@@ -119,7 +119,7 @@
                     </li>
                     <li id="mobile-menu-item-314"
                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub">
-                        <a href="#" class=""><span>GIỚI THIỆU</span></a><span class="mobile_arrow"><i
+                        <a href="{{route('about')}}" class=""><span>GIỚI THIỆU</span></a><span class="mobile_arrow"><i
                                 class="qodef-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
                         
                     </li>
@@ -131,7 +131,7 @@
                     </li>
                     <li id="mobile-menu-item-630"
                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub">
-                        <a href="#" class=""><span>LIÊN HỆ</span></a><span class="mobile_arrow"><i
+                        <a href="{{route('contact')}}" class=""><span>LIÊN HỆ</span></a><span class="mobile_arrow"><i
                                 class="qodef-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
                         
                     </li>
@@ -154,11 +154,11 @@
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home "><a
                             href="/" class=""><span>TRANG CHỦ</span></a></li>
                     <li id="popup-menu-item-4652" class="menu-item menu-item-type-post_type menu-item-object-page "><a
-                            href="" class=""><span>GIỚI THIỆU</span></a></li>
+                            href="{{route('about')}}" class=""><span>GIỚI THIỆU</span></a></li>
                     <li id="popup-menu-item-4655" class="menu-item menu-item-type-post_type menu-item-object-page "><a
                             href="." class=""><span>TIN TỨC</span></a></li>
                     <li id="popup-menu-item-4658" class="menu-item menu-item-type-post_type menu-item-object-page "><a
-                            href="" class=""><span>LIÊN HỆ</span></a></li>
+                            href="{{route('contact')}}" class=""><span>LIÊN HỆ</span></a></li>
                 </ul>
             </nav>
             <div class="qodef-fullscreen-below-menu-widget-holder">
