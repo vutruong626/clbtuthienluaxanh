@@ -169,8 +169,7 @@
                                             </style>
                                             <div class="wpb_text_column wpb_content_element ">
                                                 <div class="wpb_wrapper">
-                                                    <h2 style="text-align: center;">Present your own
-                                                        tech or startup business with StartIT</h2>
+                                                    <h2 style="text-align: center;">Trình bày công nghệ hoặc doanh nghiệp khởi nghiệp của riêng bạn với Clup truong</h2>
                                                 </div>
                                             </div>
                                             <div class="vc_empty_space" style="height: 22px"><span

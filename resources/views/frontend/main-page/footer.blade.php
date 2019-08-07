@@ -17,7 +17,7 @@
                                                 class="vc_empty_space_inner"></span></div>
                                         <p>198 West 21th Street, Suite 721, New York NY</p>
                                         <p>5109 Pacific Coast Highway, Los Angeles CA</p>
-                                        <p>Email: <a href="../cdn-cgi/l/email-protection.html" class="__cf_email__"
+                                        <p>Email: <a href="" class="__cf_email__"
                                                 data-cfemail="e891879d9a8d85898184a891879d9a8c8785898186c68b8785">[email&#160;protected]</a>
                                         </p>
                                         <p>Phone: +88 (0) 101 0000 000 </p>
@@ -83,7 +83,7 @@
                         <div class="qodef-column">
                             <div class="qodef-column-inner">
                                 <div id="recent-posts-2" class="widget qodef-footer-column-2 widget_recent_entries">
-                                    <h4 class="qodef-footer-widget-title">Latest Posts</h4>
+                                    <h4 class="qodef-footer-widget-title">Bài viết mới nhất</h4>
                                     <ul>
                                         <li>
                                             <a href="../schools-to-hold-programming-courses-in-2016/index.html">Schools
